@@ -75,41 +75,44 @@ h1, h2, h3, h4, h5 {
 
 .logo{
 	padding-left: 10px;
-
 }
 
 header {
-	margin: ;
+	
 	font-size: 50px;
-	border: 5px solid;
+	border: 2px solid;
 	
 }
 .top-content {
-	color: black;
-	border: 5px solid;
-	display: inline-block;
 	box: border-box;
+	display: inline-block;
+	width: 30%;
+	margin: 0 auto;
 
 }
 
 .bottom-content {
-	width: 50%;
-  	border: 5px solid;
-  	padding: px;
-	margin: px;
+	width: 30%; 
+	box: border-box;	
 	display: inline-block;
 	text-align: center;
+	
 }
 
 .contact{
-	border: 5px solid;
+	width: 30%;	
 }
 
 footer {
-	border: 5px solid;
+	text-align: center;
 }
 
-p {
-	margin: 20px;
-	padding: 
+
+
+.titles {
+	text-align: left;
+}
+
+button {
+	font-size: 20px;
 }
